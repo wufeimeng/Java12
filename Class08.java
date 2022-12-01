@@ -9,7 +9,7 @@ package pack6.subpack1.subsubpack;
  System.out.println("style"+style);
  }
  }
-
+ 
  package pack6.subpack1;
  public class CCircle
  {
@@ -18,7 +18,7 @@ package pack6.subpack1.subsubpack;
  System.out.println("show() method of class CCircle called");
  }
  }
-
+ 
  package pack6.subpack2;
  public class CRectangle
  {
@@ -27,7 +27,7 @@ package pack6.subpack1.subsubpack;
  System.out.println("show() method of class CRectangle called");
  }
  }
- package pack6;
+package pack6;
  import pack6.subpack1.CCircle;
  import pack6.subpack2.CRectangle;
  import pack6.subpack1.subsubpack.CStyle;
