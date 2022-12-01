@@ -1,6 +1,6 @@
 package java12;
 
-public class class08
+public class Class14
  {
  public static void main(String args[])
  {String str="Habit is second nature.";
