@@ -1,6 +1,6 @@
 package java12;
 
-public class Class17
+public class Class16
  {
  public static void main(String args[])
  {
